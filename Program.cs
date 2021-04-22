@@ -6,6 +6,7 @@ namespace HelloWorld
     class Program
     {
         // este es mi comentario !!!!!
+        // comentario del profesor
         static void Main(string[] args)
         {
             Console.WriteLine("Bienvenido al programa de notas de jorge seba y ale!");

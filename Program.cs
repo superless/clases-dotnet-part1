@@ -8,14 +8,15 @@ namespace HelloWorld
     {
         // este es mi comentario !!!!!
         // comentario del profesor
-
         static void Main(string[] args)
         {
             List<double> notas = new List<double>();
             List<double> porcentajes = new List<double>();
 
             Console.WriteLine("Bienvenido al programa de notas de jorge seba y ale!");
+
             Console.ReadLine();
+
             var notaIndex = 0;
             while (notaIndex < 3 )
             {
